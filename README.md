@@ -10,7 +10,7 @@ Model Training
 Hyperparameter Tuning
 Model Evaluation
 
-✔Technologies Used
+Technologies Used
 Python
 Pandas, NumPy,Matplotlib, Seaborn,Scikit-Learn
 XGBoost
